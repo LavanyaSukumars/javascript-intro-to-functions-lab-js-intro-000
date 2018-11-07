@@ -24,5 +24,4 @@ function sayHiToGrandma(string)
   uppercase.toUpperCase() === uppercase
   var lowercase = "HELLO"
   lowercase.toLowerCase() === lowercase
-  var mixedCase = 
 }
